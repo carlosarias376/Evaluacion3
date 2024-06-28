@@ -1,0 +1,2 @@
+import Inventario
+inventario.menu()
